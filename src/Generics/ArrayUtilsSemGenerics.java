@@ -1,3 +1,5 @@
+package Generics;
+
 public class ArrayUtilsSemGenerics 
 {
     //Quando método é estático ele tem que levar a declaração quando for genérico

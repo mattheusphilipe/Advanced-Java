@@ -1,3 +1,4 @@
+package Genercis;
 
 // contrário do UppwerBoundedWildcard
 
