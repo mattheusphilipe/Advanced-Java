@@ -1,3 +1,4 @@
+package MethodReference;
 @FunctionalInterface
 public interface StringProcessor 
 {

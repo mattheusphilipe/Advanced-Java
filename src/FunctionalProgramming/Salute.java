@@ -3,4 +3,5 @@ package FunctionalProgramming;
 public interface Salute 
 {
     void saudar(String nome);
+
 }
