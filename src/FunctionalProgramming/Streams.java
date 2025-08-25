@@ -1,12 +1,12 @@
+package FunctionalProgramming;
 import java.util.ArrayList;
 
 public class Streams {
     
     // Paralelismo: capacidade de executar múltiplas tarefas simultaneamento em vários processadores.
     
-
     // Sem paralelismo
-     public static void main(String... params) throws Exception{
+     public static void main(String... params) throws Exception {
         ArrayList<Object> livros = new ArrayList<>();
 
         // sempre deveolverá na mesma ordem sequencial
