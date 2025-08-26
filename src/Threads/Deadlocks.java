@@ -1,9 +1,10 @@
+package Threads;
 public class Deadlocks 
 {
     public static Object colher = new Object();
     public static Object vasilha = new Object();   
     public static void main(String... args)
-{
+    {
     // Deadlocks é um comportamento de execução e espera infinita a um recurso que nunca será liberado.
     // Neste cenário temos um Thread esperando um recurso que nunca será liberado. 
     // Que é um dos cozinheiros sempre estarão a espera do utensílio que o outro está em posse e com isso nnehum dos ddois fica com os dois e nunca encerram. 
